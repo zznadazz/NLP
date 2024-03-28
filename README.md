@@ -1,6 +1,6 @@
 # Sentiment Analysis 
 ## Objective :
-Classified the tweets about Corona Virus as positive or negative; in the dataset there are 5 classes: 'Extremely Negative', 'Extremely Positive', 'Negative', 'Neutral', 'Positive'.
+Classifying the tweets about Corona Virus as positive or negative; in the dataset there are 5 classes: 'Extremely Negative', 'Extremely Positive', 'Negative', 'Neutral', 'Positive'.
 
 ## Summary
 1. Exploratory Data Analsis (EDA): looked closely at the data, the text, the target, any null values, any imbalance, non-numerical data to be converted (in data and target)?, etc.
